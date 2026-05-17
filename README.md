@@ -7,6 +7,7 @@ Projeto desenvolvido em Excel durante o Bootcamp de Engenharia de Dados da DIO e
 Transformar dados brutos de vendas em informações visuais e estratégicas, permitindo análises rápidas e auxiliando na tomada de decisão através de dashboards interativos no Excel.
 
 🚀 Funcionalidades
+
 Dashboard interativo
 Indicadores de vendas
 Análise de faturamento
@@ -14,7 +15,9 @@ Comparativo de desempenho
 Gráficos dinâmicos
 Segmentação de dados
 Interface visual intuitiva
+
 🛠️ Ferramentas Utilizadas
+
 Microsoft Excel
 Tabelas Dinâmicas
 Gráficos Dinâmicos
