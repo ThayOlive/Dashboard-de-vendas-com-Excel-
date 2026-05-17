@@ -26,12 +26,6 @@ Tratamento e organização de dados
 
 Este projeto foi desenvolvido durante o Bootcamp de Engenharia de Dados da DIO em parceria com a TOTVS, com orientação do professor Felipão, aplicando conceitos de análise de dados, visualização de informações e construção de dashboards profissionais.
 
-📂 Estrutura do Projeto
-📁 Dashboard-de-vendas-com-Excel-
- ┣ 📄 Dashboard.xlsx
- ┣ 📄 README.md
- ┗ 📁 imagens
-      ┗ 📄 dashboard.png
 📸 Preview do Dashboard
 
 <img width="1294" height="570" alt="image" src="https://github.com/user-attachments/assets/f375156d-c805-43a0-9551-81e289a263f3" />
