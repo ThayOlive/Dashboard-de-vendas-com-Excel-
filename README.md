@@ -37,7 +37,6 @@ Este projeto foi desenvolvido durante o Bootcamp de Engenharia de Dados da DIO e
 <img width="1294" height="570" alt="image" src="https://github.com/user-attachments/assets/f375156d-c805-43a0-9551-81e289a263f3" />
 
 
-![Dashboard](./imagens/dashboard.png)
 📈 Principais Análises
 Total de vendas
 Produtos mais vendidos
