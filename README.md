@@ -32,6 +32,8 @@ Este projeto foi desenvolvido durante o Bootcamp de Engenharia de Dados da DIO e
 
 
 📈 Principais Análises
+
+
 Total de vendas
 Produtos mais vendidos
 Evolução das vendas
@@ -41,6 +43,7 @@ Insights visuais para tomada de decisão
 
 
 💡 Aprendizados
+
 Durante o desenvolvimento deste projeto, foram trabalhados conceitos como:
 Visualização de dados
 Construção de dashboards
@@ -50,6 +53,7 @@ Storytelling com dados
 
 
 ▶️ Como Utilizar
+
 Faça o download do arquivo Excel
 Abra no Microsoft Excel
 Utilize os filtros e segmentações para interagir com os dados
